@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Dora Greedy Bag</string>
+
+    <string-array name="object_names">
+        <item>Umbrella</item>
+        <item>Book</item>
+        <item>Tape</item>
+        <item>Boots</item>
+        <item>Cap</item>
+        <item>Scissor</item>
+    </string-array>
+
+    <string-array name="object_weights">
+        <item>30</item>
+        <item>35</item>
+        <item>10</item>
+        <item>25</item>
+        <item>15</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="object_profits">
+        <item>50</item>
+        <item>40</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>25</item>
+    </string-array>
+</resources>
